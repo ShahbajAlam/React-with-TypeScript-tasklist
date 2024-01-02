@@ -1,1 +1,1 @@
-# React-with-TypeScript-tasklist
+# React + TypeScript (Basics)
